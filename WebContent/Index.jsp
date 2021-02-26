@@ -12,7 +12,6 @@
 <h3>*****Well come Spring *****</h3>
 <a href="logindo.do"> Go to Login page....</a><br> 
 <a href="request.do">Go to registration page....</a><br>
-
 <a href="prashow.do">pratice data</a>
 </center>
 </body>
